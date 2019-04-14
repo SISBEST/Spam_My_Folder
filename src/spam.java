@@ -1,5 +1,5 @@
 import java.io.*;
-import sun.audio.*;
+import sun.audio;
 
 public class spam {
 
